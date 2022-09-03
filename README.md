@@ -1,1 +1,1 @@
-# djangoCourse
+# djangoApp
